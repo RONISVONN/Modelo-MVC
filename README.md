@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Modelo-MVC é um projeto de modelo padrão MVC na construção do site, com as camadas [Controller] - [Model] - [View]. Tendo em vista assim uma melhor organização dos arquivos, podendo trabalhar em equipe separada por camada por exemplo na camanda da [View] - Trabalha o profisional de "Designer" - "Programador Front-End", na camada [Model] - Trabalha o profisional de "Analista de Dados (DBA)" - "Programador  Back-End",  e por fim na camada "Controller" - O profisional "Programador Full Stack". 
+O Modelo-MVC é um projeto de modelo padrão de arquitetura "MVC" que auxilia na construção de uma aplicação, que nesse caso é uma aplicação WebSite, com as camadas [Controller] - [Model] - [View]. Tendo em vista assim uma melhora na organização dos arquivos, podendo trabalhar em equipe separada por camada por exemplo na camanda da [View] - Trabalha o profissional de "Designer" junto com um "Programador Front-End", na camada [Model] - Trabalha o profissional de "Analista de Dados (DBA)" junto com um "Programador  Back-End",  e por fim na camada "Controller" - O profissional "Programador Full Stack" que consigua trabalha e auxiliar tanto como Front-End como Back-End e entenda como funciona as camadas [Model] e [View]. 
 
 ## 🔖 Layout
 
