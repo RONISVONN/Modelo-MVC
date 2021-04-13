@@ -1,0 +1,27 @@
+:root {
+    --preto: #111111;
+    --branco: #ffffff;
+}
+
+body {
+    background-color: var(--preto);
+}
+
+.titulo {
+    color: var(--branco);
+}
+
+header {
+    background-color: blue;
+    text-align: left;
+}
+
+main {
+    background-color: green;
+    text-align: center;
+}
+
+footer {
+    background-color: red;
+    text-align: right;
+}

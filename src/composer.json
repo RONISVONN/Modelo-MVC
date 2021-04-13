@@ -1,0 +1,21 @@
+{
+    "name": "modelo/mvc",
+    "description": "Projeto Modelo MVC Bootstrap PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RONISVONN",
+            "email": "ronisvonn@hotmail.com"
+        }
+    ],
+    "require": {
+        "components/jquery": "^3.5",
+        "twbs/bootstrap": "4.6.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "App\\":"../app/",
+            "Src\\":"../src/"
+        }
+    }     
+}
