@@ -19,6 +19,12 @@
 <p align="center">
   <img alt="dev.finances" src="public/img/Video_01.gif" width="100%">
 </p>
+Caso queira assistir o vídeo no YouTube como foi criado o projeto o passo a passo.
+
+## ![youtube-32.png](https://github.com/RONISVONN/img/blob/main/youtube-32.png?raw=true) - YouTube
+
+https://www.youtube.com/watch?v=ESxaCP-OpMM&t=484s
+
 
 
 
