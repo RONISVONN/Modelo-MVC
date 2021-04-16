@@ -10,7 +10,7 @@ class ControllerHome extends ClassRender implements InterfaceView{
     {
         $this->setTitle("Página Inicial");
         $this->setDescription("Esse é o nosso site de MVC");
-        $this->setKeywords("mvc completo, curso de mvc, webdesign em foco");
+        $this->setKeywords("Modelo-MVC");
         $this->setDir("home");
         $this->renderLayout();
     }
