@@ -10,7 +10,7 @@ class ControllerPage404 extends ClassRender implements InterfaceView{
     {
         $this->setTitle("Página 404");
         $this->setDescription("Pagina não encotranda");
-        $this->setKeywords("erro 404");
+        $this->setKeywords("Erro 404");
         $this->setDir("page404");
         $this->renderLayout();
     }
